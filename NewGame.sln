@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGame", "NewGame.csproj", "{C7EB9FFB-7D45-4DCF-A0A1-EF34FF56DEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGame.Game", "NewGame.Game\NewGame.Game.csproj", "{49ACC1A6-3166-43C7-ACCE-3C6404003C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewGame.Test", "NewGame.Test\NewGame.Test.csproj", "{AECA5EC8-5682-4A90-8707-1B430BA51504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EB9FFB-7D45-4DCF-A0A1-EF34FF56DEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EB9FFB-7D45-4DCF-A0A1-EF34FF56DEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EB9FFB-7D45-4DCF-A0A1-EF34FF56DEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EB9FFB-7D45-4DCF-A0A1-EF34FF56DEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49ACC1A6-3166-43C7-ACCE-3C6404003C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ACC1A6-3166-43C7-ACCE-3C6404003C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ACC1A6-3166-43C7-ACCE-3C6404003C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ACC1A6-3166-43C7-ACCE-3C6404003C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECA5EC8-5682-4A90-8707-1B430BA51504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECA5EC8-5682-4A90-8707-1B430BA51504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECA5EC8-5682-4A90-8707-1B430BA51504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECA5EC8-5682-4A90-8707-1B430BA51504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
